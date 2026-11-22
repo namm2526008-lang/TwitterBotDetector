@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Do
+    given-names: Nhat Nam
+    orcid: https://orcid.org/0009-0002-6252-0039
+title: "Twitter Bot Detector"
+version: 1.0.0
+date-released: 2026-11-22
